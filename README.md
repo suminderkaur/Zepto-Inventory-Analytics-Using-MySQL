@@ -107,7 +107,7 @@ Business Goal: Determine if Zepto offers sweeter discount incentives on bulk "Mu
 ## 🚀 How to Run This Project
 
 1. Copy the code from `schema.sql` and run it in MySQL Workbench to create the database and table.
-2. Import the `zepto_v2.csv` dataset using the **Table Data Import Wizard**. *(Note: If you hit a mapping error on the MRP column, just toggle the target column dropdown to 'Data dropped' and back to 'mrp' to reset it).*
+2. Import the `zepto1.csv` dataset using the **Table Data Import Wizard**. *(Note: If you hit a mapping error on the MRP column, just toggle the target column dropdown to 'Data dropped' and back to 'mrp' to reset it).*
 3. Open `Zepto_inventory_analysis_.sql` and run any of the business queries to see the results!
 
 ## 📬 Connect with Me
