@@ -68,39 +68,39 @@ Currency Conversion:Converted mrp and discountedSellingPrice from paise to rupee
 
 ### 4. 📊 Business Insights
 
-A. Found top 10 best-value products based on discount percentage
+**A. Found top 10 best-value products based on discount percentage**
 
 Business Goal: Identify our most aggressively discounted items to track which products are driving the biggest clearance promotions.
 
-B. Identified high-MRP products that are currently out of stock
+**B. Identified high-MRP products that are currently out of stock**
 
 Business Goal: Spot expensive, high-ticket items that are out of stock so the warehouse can reorder them immediately before we lose major revenue.
 
-C. Estimated potential revenue for each product category
+**C. Estimated potential revenue for each product category**
 
 Business Goal: Calculate the total financial value tied up in our current inventory to see which categories hold the most capital.
 
-D. Filtered expensive products (MRP > ₹500) with minimal discount
+**D. Filtered expensive products (MRP > ₹500) with minimal discount**
 
 Business Goal: Isolate premium products that are selling at near-full price to evaluate where we are maintaining our highest profit margins.
 
-E. Ranked top 5 categories offering highest average discounts
+**E. Ranked top 5 categories offering highest average discounts**
 
 Business Goal: Find out which 5 product categories rely the most on heavy discounts to attract customers and drive sales volume.
 
-F. Calculated price per gram to identify value-for-money products
+**F. Calculated price per gram to identify value-for-money products**
 
 Business Goal: Measure the cost-per-gram for items to pinpoint which specific products offer customers the absolute best value for their money.
 
-G. Grouped products based on weight into Low, Medium, and Bulk categories
+**G. Grouped products based on weight into Low, Medium, and Bulk categories**
 
 Business Goal: Segment our inventory into clear weight brackets to help the stores organize their shelves and prevent delivery riders from being overloaded.
 
-H. Measured total inventory weight per product category
+**H. Measured total inventory weight per product category**
 
 Business Goal: Calculate the total physical weight of all stock combined per category to help logistics teams plan storage capacity and supply shipments.
 
-I. Packaging Strategy (Bulk Bundles vs. Single Items)
+**I. Packaging Strategy (Bulk Bundles vs. Single Items)**
 
 Business Goal: Determine if Zepto offers sweeter discount incentives on bulk "Multipacks/Bundles" compared to individual single items.
 
