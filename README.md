@@ -38,7 +38,7 @@ outOfStock: Boolean flag indicating stock availability
 
 quantity: Number of units per package (mixed with grams for loose produce)
 
-tep-by-Step Implementation
+### Step-by-Step Implementation
 
 ### 1. Setting Up the Database
 I imported the Csv file in my MySQL workbench
